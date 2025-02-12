@@ -3,9 +3,10 @@
 
 
 📫 Reach me at **rifky14faris@gmail.com**
-
+<br>
+<br>
  <a href="https://www.linkedin.com/in/rifkyfaris/"><img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="c logo"  /><a/>
-
+ 
 
 ###
 
