@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rifky Faris</h1>
-<h3 align="center">Undergraduate | Software Engineer | Data Scientist | AI/ML Enthusiast </h3>
+<h3 align="center">Undergraduate | Data Scientist | AI/ML Enthusiast </h3>
 <h3 align="center">Hello! I’m Rifky Faris, an undergraduate, software engineer, data scientist, and AI/ML enthusiast. With a passion for solving complex problems through data, I am dedicated to exploring the world of data science and machine learning. Armed with a strong foundation in software engineering, I’m excited to build innovative solutions that leverage cutting-edge technologies in AI and ML to create meaningful real-world impacts. I’m driven by the challenge of transforming data into valuable insights that guide informed decision-making and foster innovation.
 </h3>
 📫 Reach me at **rifky14faris@gmail.com**
