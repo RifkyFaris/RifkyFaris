@@ -39,8 +39,7 @@
 <div align="left">
   <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=angular" height="40" alt="angularjs logo"  />
-  <img width="12" />
+ 
   <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  />
@@ -61,7 +60,7 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=kafka" height="40" alt="apachekafka logo"  />
+  
 </div>
 
 ###
@@ -87,8 +86,7 @@
 ###
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=tensorflow" height="40" alt="tensorflow logo"  />
-  <img width="12" />
+  
   <img src="https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=white&style=for-the-badge" height="40" alt="pandas logo"  />
 </div>
 
@@ -103,11 +101,8 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=cassandra" height="40" alt="apachecassandra logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/amazondynamodb/4053D6" height="40" alt="amazondynamodb logo"  />
+  
+  
 </div>
 
 ###
@@ -122,8 +117,6 @@
   <img src="https://skillicons.dev/icons?i=gcp" height="40" alt="googlecloud logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=azure" height="40" alt="azure logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=kubernetes" height="40" alt="kubernetes logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
 </div>
@@ -142,27 +135,8 @@
 
 ###
 
-<h2 align="left">Framework</h2>
 
-###
 
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=laravel" height="40" alt="laravel logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=dotnet" height="40" alt="dot-net logo"  />
-</div>
-
-###
-
-<h2 align="left">Game Engine</h2>
-
-###
-
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=unity" height="40" alt="unity logo"  />
-</div>
-
-###
 
 <h2 align="left">Softwares</h2>
 
