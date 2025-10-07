@@ -28,6 +28,9 @@
   <img src="https://skillicons.dev/icons?i=php" height="40" alt="php logo"  />
  <img width="12" />
   <img src="https://skillicons.dev/icons?i=kotlin" height="40" alt="kotlin logo"  />
+ 
+
+
 </div>
 
 ###
@@ -148,7 +151,12 @@
  
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opencv/opencv-original.svg" width="40" />
  <img width="12" />      
+ 
+ <img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/938a3e43-baf2-42ae-8e3d-b54a27d835e5" />
+<img width="12" />
+<img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/37ec6133-7a4b-4a25-9895-ef448cab59a1" />
 
+<img width="12" />
 </div>
 
 ###
@@ -258,6 +266,9 @@
   <img src="https://skillicons.dev/icons?i=idea" height="40" alt="intellijidea logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=replit" height="40" alt="replit logo"  />
+  <img width="12" />
+  <img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/7057d4d9-14d2-407c-9cba-c30c5a1df00d" />
+
 
 </div>
 
