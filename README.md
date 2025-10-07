@@ -191,6 +191,10 @@
   <img src="https://cdn.simpleicons.org/heroku/430098" height="40" alt="heroku logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=cloudflare" height="40" alt="cloudflare logo"  />
+   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="40" alt="terraform logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
 
 </div>
 
