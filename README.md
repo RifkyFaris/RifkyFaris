@@ -271,6 +271,9 @@
   <img src="https://skillicons.dev/icons?i=replit" height="40" alt="replit logo"  />
   <img width="12" />
   <img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/7057d4d9-14d2-407c-9cba-c30c5a1df00d" />
+ <img width="12" />
+  <img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/11556a49-f680-4925-8c8e-62a606aef458" />
+
 
 
 </div>
