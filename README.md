@@ -64,6 +64,9 @@
   <img src="https://cdn.simpleicons.org/angular/DD0031" height="40" alt="angularjs logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/typescript/3178C6" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/06f2c6d4-2ea4-46e3-844f-dcfa32ae5caa" />
+
           
 </div>
 
